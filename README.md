@@ -6,3 +6,5 @@ A Java-based application that simulates a tree-based file system with folders an
 - Recursive search across file system
 - Full tree directory display
 - Models operating system file transversal
+
+‼️Note: This project is shared for career-related purposes. If used for academic coursework, please follow your institution’s academic integrity policy.
