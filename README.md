@@ -22,12 +22,12 @@ cd FileSystemApp
 
 3. Compile the program:
 ```bash
-javac *.java
+javac FileSystemApp/*.java
 ```
 
 4. Run the program:
 ```bash
-java FileSystemApp
+java FileSystemApp.FileSystemApp
 ```
 
 ‼️Note: This project is shared for career-related purposes. If used for academic coursework, please follow your institution’s academic integrity policy.
